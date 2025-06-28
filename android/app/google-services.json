@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "394173059992",
+    "project_id": "solino-e454f",
+    "storage_bucket": "solino-e454f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394173059992:android:61974d57aa52267ec411ed",
+        "android_client_info": {
+          "package_name": "com.molhi.solina"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8CCfMt4qGtDyoC51v5OEgswYnhueD2uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
